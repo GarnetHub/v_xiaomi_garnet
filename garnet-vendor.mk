@@ -1975,6 +1975,7 @@ PRODUCT_PACKAGES += \
     init.qti.write \
     irsc_util \
     ks \
+    libmisoundfx \
     loc_launcher \
     lowi-server \
     lowirpcd \
